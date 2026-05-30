@@ -104,3 +104,7 @@ main {
     width: calc(100% - 44px);
     transform: translateY(-4px);
 }
+
+.login-field input:focus-within {
+    background-color: white;
+}
