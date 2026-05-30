@@ -64,6 +64,21 @@ main {
     text-align: center;
 }
 
+.login-form input[type=submit]{
+    display: block;
+
+    background-color: #57d1cd;
+    color: white;
+
+    width: 100%;
+    border: 2px solid #57d1cd;
+    border-radius: 6px;
+    padding: 6px;
+    margin-top: 10px;
+    
+    cursor: pointer;
+}
+
 .login-field {
     background-color: var(--main-Lavander);
     border-radius: 8px;
