@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+:root {
+    --main-Green: #49a09d;
+    --main-Lavander: #5f2c82;
+}
+
 *,
 *::before,
 *::after {
