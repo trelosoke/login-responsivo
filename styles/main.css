@@ -79,6 +79,11 @@ main {
     cursor: pointer;
 }
 
+.login-form input[type=submit]:hover {
+    background-color: white;
+    color: #57d1cd;
+}
+
 .login-field {
     background-color: var(--main-Lavander);
     border-radius: 8px;
