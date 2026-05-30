@@ -16,14 +16,12 @@
             <p>Seja bem-vindo(a) novamente. Faça log-in para acessar sua conta e poder fazer as configurações no seu ambiente.</p>
             <form method="post">
                 <div class="login-field">
-                    <span class="material-symbols-outlined">person</span>
-                    <input type="email" name="login" id="ilogin">
-                    <label for="ilogin">Login</label>
+                    <label for="ilogin"><span class="material-symbols-outlined">person</span></label>
+                    <input type="email" name="login" id="ilogin" required maxlength="30" placeholder="Seu e-mail">
                 </div>
                 <div class="login-field">
-                    <span class="material-symbols-outlined">key</span>
-                    <input type="password" name="passwrd" id="ipasswrd">
-                    <label for="ipasswrd">Senha</label>
+                    <label for="ipasswrd"><span class="material-symbols-outlined">key</span></label>
+                    <input type="password" name="passwrd" id="ipasswrd" required minlength="8" maxlength="20" placeholder="Sua senha">
                 </div>
                 <input type="submit" value="Enviar">
                 <a href="#">

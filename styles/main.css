@@ -63,3 +63,24 @@ main {
 .login-form p {
     text-align: center;
 }
+
+.login-field {
+    background-color: var(--main-Lavander);
+    border-radius: 8px;
+    margin-top: 4px;
+}
+
+.login-field span {
+    color: white;
+    padding: 6px;
+}
+
+.login-field input {
+    background-color: #a9fefb;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+
+    width: calc(100% - 44px);
+    transform: translateY(-4px);
+}
