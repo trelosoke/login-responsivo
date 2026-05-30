@@ -42,3 +42,16 @@ main {
     background-size: cover;
     height: 200px;
 }
+
+.login-form {
+    margin: 12px;
+}
+
+.login-form h1 {
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+.login-form p {
+    text-align: center;
+}
