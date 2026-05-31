@@ -188,4 +188,12 @@ main {
         width: calc(50% - 24px);
         float: left;
     }
+
+    .login-form p {
+        margin-bottom: 30px;
+    }
+
+    .login-form input[type=submit]{
+        margin-top: 190px;
+    }
 }
