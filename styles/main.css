@@ -135,6 +135,11 @@ main {
 
     width: calc(100% - 58px);
     transform: translateY(-6px);
+    transition: background-color 130ms ease-out;
+}
+
+.login-field input:hover {
+    background-color: #ffffff;
 }
 
 .login-field input:focus-within {
