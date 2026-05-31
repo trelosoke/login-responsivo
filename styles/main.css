@@ -171,3 +171,21 @@ main {
         margin-top: 220px;
     }
 }
+
+@media screen and (min-width: 992px){
+    main {
+        width: 960px;
+    }
+
+    .login-image {
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+
+    .login-form {
+        margin-top: 30px;
+        width: calc(50% - 24px);
+        float: left;
+    }
+}
