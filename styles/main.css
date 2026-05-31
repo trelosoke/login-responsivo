@@ -91,6 +91,7 @@ main {
 }
 
 .login-field span {
+    font-size: 2em;
     color: white;
     padding: 6px;
 }
@@ -100,6 +101,7 @@ main {
     padding: 8px;
     border-radius: 6px;
     border: none;
+    font-size: 1.1em;
 
     width: calc(100% - 44px);
     transform: translateY(-4px);
