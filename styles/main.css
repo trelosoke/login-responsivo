@@ -78,6 +78,7 @@ main {
     margin-top: 65px;
     
     cursor: pointer;
+    transition: 100ms ease-out;
 }
 
 .forget-passwrd span{
@@ -105,6 +106,7 @@ main {
     padding: 6px;
     
     text-decoration: none;
+    transition: 100ms ease-out;
 }
 
 .login-form a:hover {
