@@ -114,6 +114,12 @@ main {
     color: #57d1cd;
 }
 
+.forget-passwrd:active {
+    background-color: var(--main-Green);
+    color: white;
+    transition: 10ms ease-out;
+}
+
 .login-field {
     background-color: var(--main-Lavander);
     border-radius: 8px;
