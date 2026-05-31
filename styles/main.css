@@ -38,7 +38,7 @@ main {
     left: 50%;
 
     width: 320px;
-    height: 600px;
+    max-height: 65dvh;
     overflow: auto;
 
     background-color: white;
