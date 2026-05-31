@@ -145,3 +145,20 @@ main {
 .login-field input:focus-within {
     background-color: white;
 }
+
+@media screen and (min-width: 768px){
+    main {
+        width: 750px;
+    }
+
+    .login-image {
+        float: left;
+        width: 40%;
+        height: 100%;
+    }
+
+    .login-form {
+        width: calc(60% - 24px);
+        float: right;
+    }
+}
