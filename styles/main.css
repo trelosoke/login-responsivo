@@ -86,6 +86,12 @@ main {
     color: #57d1cd;
 }
 
+.login-form input[type=submit]:active {
+    background-color: var(--main-Green);
+    color: white;
+    transition: 10ms ease-out;
+}
+
 .forget-passwrd {
     display: block;
 
