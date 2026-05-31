@@ -81,17 +81,12 @@ main {
     transition: 100ms ease-out;
 }
 
-.forget-passwrd span{
-    font-size: 0.8em;
-    transform: translateY(2px);
-}
-
 .login-form input[type=submit]:hover {
     background-color: white;
     color: #57d1cd;
 }
 
-.login-form a {
+.forget-passwrd {
     display: block;
 
     background-color: #57d1cd;
@@ -109,7 +104,12 @@ main {
     transition: 100ms ease-out;
 }
 
-.login-form a:hover {
+.forget-passwrd span{
+    font-size: 0.8em;
+    transform: translateY(2px);
+}
+
+.forget-passwrd:hover {
     background-color: white;
     color: #57d1cd;
 }
