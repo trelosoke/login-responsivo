@@ -93,7 +93,7 @@ main {
 .login-field span {
     font-size: 2em;
     color: white;
-    padding: 6px;
+    padding: 8px;
 }
 
 .login-field input {
@@ -103,8 +103,8 @@ main {
     border: none;
     font-size: 1.1em;
 
-    width: calc(100% - 44px);
-    transform: translateY(-4px);
+    width: calc(100% - 58px);
+    transform: translateY(-6px);
 }
 
 .login-field input:focus-within {
