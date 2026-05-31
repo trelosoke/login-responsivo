@@ -43,6 +43,7 @@ main {
     background-color: white;
     border-radius: 8px;
     transform: translate(-50%, -50%);
+    transition: width 300ms ease-out;
 }
 
 .login-image {
