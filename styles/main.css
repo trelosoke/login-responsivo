@@ -158,7 +158,16 @@ main {
     }
 
     .login-form {
+        margin-top: 30px;
         width: calc(60% - 24px);
         float: right;
+    }
+
+    .login-form p {
+        margin-bottom: 50px;
+    }
+
+    .login-form input[type=submit]{
+        margin-top: 220px;
     }
 }
