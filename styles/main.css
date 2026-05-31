@@ -161,6 +161,7 @@ main {
 @media screen and (min-width: 768px){
     main {
         width: 750px;
+        height: 480px;
     }
 
     .login-image {
@@ -180,13 +181,14 @@ main {
     }
 
     .login-form input[type=submit]{
-        margin-top: 220px;
+        margin-top: 90px;
     }
 }
 
 @media screen and (min-width: 992px){
     main {
         width: 960px;
+        height: 550px;
     }
 
     .login-image {
@@ -211,6 +213,6 @@ main {
     }
 
     .login-form input[type=submit]{
-        margin-top: 190px;
+        margin-top: 134px;
     }
 }
