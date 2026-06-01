@@ -6,9 +6,7 @@
 
 Tela de login responsiva desenvolvida com HTML5 e CSS3, aplicando mobile-first e design moderno.
 
-<video autoplay muted loop playsinline width="100%">
-  <source src="docs/screenshots/responsivityDemonstration.mp4" type="video/mp4">
-</video>
+![](docs/screenshots/responsivityDemonstration.gif)
 
 [🌐 Acessar site do projeto↗](https://trelosoke.github.io/login-responsivo/)
 
